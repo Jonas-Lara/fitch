@@ -38,7 +38,7 @@ dotnet tool install --global fitch
 
 #### Instructions
 
-1. Clone [fitch repo](http://www.luisquintanilla.me/github/fitch) in your Linux machine
+1. Clone [fitch repo](https://github.com/fsprojects/fitch) in your Linux machine
 
     ```
     git clone https://github.com/lqdev/fitch.git && cd fitch
