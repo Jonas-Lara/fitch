@@ -11,7 +11,7 @@
     <ToolCommandName>fitch</ToolCommandName>
     <PackageOutputPath>./nupkg</PackageOutputPath>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <RepositoryUrl>https://github.com/lqdev/fitch</RepositoryUrl>
+    <RepositoryUrl>https://github.com/fsprojects/fitch</RepositoryUrl>
     <Description>Command line system information display utility for Linux systems built with .NET (F#).</Description>
   </PropertyGroup>
 
